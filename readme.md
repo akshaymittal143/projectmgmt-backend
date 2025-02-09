@@ -1,5 +1,4 @@
 
-```markdown
 # Project Management Backend
 
 A robust backend service for managing projects, tasks, and users. Built with **Java** and **Spring Boot**, this system ensures scalability, security, and high performance. It provides RESTful APIs for project creation, task tracking, and user management with role-based access control.
@@ -133,5 +132,3 @@ A robust backend service for managing projects, tasks, and users. Built with **J
 
 This project is licensed under the [MIT License](LICENSE).
 ```
-
-You can adjust specific sections (e.g., repository URL or license) based on your actual implementation and preferences. Let me know if you want to add more customization!
